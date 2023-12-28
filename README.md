@@ -1,2 +1,2 @@
 # Zenfy
-Author : Khadija Tasnim
+Author : Khadija Tasnim Khushi
